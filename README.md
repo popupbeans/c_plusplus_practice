@@ -1,4 +1,4 @@
-Various algorithm sample code in C or C++
+Various algorithm sample codes in C and C++
 -----------------------------------------
 
 Created by popupbeans
