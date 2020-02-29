@@ -1,5 +1,4 @@
 // Trie practice
-// Lower case characters only
 
 #include <iostream>
 #include <unordered_map>
@@ -107,7 +106,6 @@ public:
         auto itr = link->get_linked()->begin();
         while ( itr != link->get_linked()->end() ) {
             rel(itr->second);
-            cout << itr->first << endl;
             delete itr->second;
             itr++;
         }
