@@ -1,19 +1,19 @@
-- Various algorithm sample codes in C and C++
+Various algorithm sample codes in C and C++
 -----------------------------------------
 
 Created by popupbeans
 
-Minimum Spanning Tree              : mst_practice.cc
+- Minimum Spanning Tree              : mst_practice.cc
 
-Dijkstra Algorithm                 : dijkstra.cc
+- Dijkstra Algorithm                 : dijkstra.cc
 
-Ford-Fulkerson Algorithm           : Ford-Fulkerson.cc
+- Ford-Fulkerson Algorithm           : Ford-Fulkerson.cc
 
-Radix Sort (MSD)                   : radix_sort_msd.cc
+- Radix Sort (MSD)                   : radix_sort_msd.cc
 
-Radix Sort (LSD)                   : radix_sort_lsd.cc
+- Radix Sort (LSD)                   : radix_sort_lsd.cc
 
-Longest Common Substring detection : substring_detection.cc 
+- Longest Common Substring detection : substring_detection.cc 
 
-Trie                               : trie.cc
+- Trie                               : trie.cc
 
