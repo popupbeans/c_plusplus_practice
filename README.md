@@ -1,4 +1,4 @@
-Various algorithm sample codes in C and C++
+- Various algorithm sample codes in C and C++
 -----------------------------------------
 
 Created by popupbeans
@@ -14,4 +14,6 @@ Radix Sort (MSD)                   : radix_sort_msd.cc
 Radix Sort (LSD)                   : radix_sort_lsd.cc
 
 Longest Common Substring detection : substring_detection.cc 
+
+Trie                               : trie.cc
 
