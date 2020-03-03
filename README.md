@@ -3,19 +3,21 @@ Various algorithm sample codes in C and C++
 
 Created by popupbeans
 
-- Minimum Spanning Tree                : mst_practice.cc
+- mst_practice.cc : Minimum Spanning Tree
 
-- Dijkstra Algorithm                   : dijkstra.cc
+- dijkstra.cc : Dijkstra Algorithm
 
-- Ford-Fulkerson Algorithm             : Ford-Fulkerson.cc
+- Ford-Fulkerson.cc : Ford-Fulkerson Algorithm
 
-- Radix Sort (MSD)                     : radix_sort_msd.cc
+- radix_sort_msd.cc : Radix Sort (MSD)
 
-- Radix Sort (LSD)                     : radix_sort_lsd.cc
+- radix_sort_lsd.cc : Radix Sort (LSD)
 
-- Longest Common Substring Detection   : substring_detection.cc 
+- substring_detection.cc : Longest Common Substring Detection
 
-- Trie                                 : trie.cc
+- trie.cc : Trie
 
-- Collect Words with Prefix using Trie : prefix_search.cc
+- prefix_search.cc : Collect Words with Prefix using Trie
+
+- kmp.cc : Knuth-Morris-Pratt Pattern Matching Algorithm
 
