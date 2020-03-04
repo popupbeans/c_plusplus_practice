@@ -20,6 +20,3 @@ Created by popupbeans
 - prefix_search.cc : Collect Words with Prefix using Trie
 
 - kmp.cc : Knuth-Morris-Pratt Pattern Matching Algorithm
-
-- kmp_rot_detect.cc : Cyclic Rotation Detection using Knuth-Morris-Pratt Algorithm
-
