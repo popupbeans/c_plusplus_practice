@@ -37,7 +37,7 @@ public:
     int search(string text)
     {
         int state = 0;
-        for ( int i = 0 ; i < text.length() - pattern_length ; i++ ) {
+        for ( int i = 0 ; i < text.length() ; i++ ) {
             if ( dfs.find(text[i]) == dfs.end() ) {
                 state = 0;
                 continue;
