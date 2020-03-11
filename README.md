@@ -25,3 +25,5 @@ Created by popupbeans
 
 - regex.cc : Regular Expression 
 
+- huffman.cc : Generate huffman encoding code table
+
